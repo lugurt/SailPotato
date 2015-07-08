@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\android_sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="E:\work_mine\SailPotato\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-ae73cfcbadb732e1b4eb4568bc005fe8a1d5e1de.jar" />
+    </item>
+    <item
+        jar="E:\work_mine\SailPotato\app\build\intermediates\exploded-aar\com.android.support\percent\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="928b73afabcd116944e9487771d4121168eac1a4">
+        <dex dex="E:\work_mine\SailPotato\app\build\intermediates\pre-dexed\debug\classes-10fc0aa4b1978bf889bd05f19c72f5a106b8526b.jar" />
+    </item>
+    <item
+        jar="E:\work_mine\SailPotato\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="E:\work_mine\SailPotato\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-5f89360037a098743f355160676b558ce9b1f130.jar" />
+    </item>
+    <item
+        jar="E:\work_mine\SailPotato\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="E:\work_mine\SailPotato\app\build\intermediates\pre-dexed\debug\classes-9e0d0c070824bd772b8a32779b0950c062986a4b.jar" />
+    </item>
+    <item
+        jar="E:\work_mine\SailPotato\app\build\intermediates\exploded-aar\SailPotato\volley\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="a5dbf6aed0617b4491c71e3e690ee8495063d7cd">
+        <dex dex="E:\work_mine\SailPotato\app\build\intermediates\pre-dexed\debug\classes-fa9004c7865596ea6aef0756ccb18252161f6e36.jar" />
+    </item>
+    <item
+        jar="E:\work_mine\SailPotato\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="E:\work_mine\SailPotato\app\build\intermediates\pre-dexed\debug\classes-03ddbd2310b25314aed76a9785cd8b9f52e1a8c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.michaelpardo\activeandroid\3.1.0-SNAPSHOT\4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08\activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="E:\work_mine\SailPotato\app\build\intermediates\pre-dexed\debug\activeandroid-3.1.0-SNAPSHOT-37c7f31c332bb8b33d38c1341e57fae775181fcd.jar" />
+    </item>
+
+</items>
