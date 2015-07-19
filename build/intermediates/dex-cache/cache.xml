@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Documents\GitHub\SailPotato\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\Documents\GitHub\SailPotato\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-bd430dc962f1ec30227a5aae08cfd1f83429127b.jar" />
+    </item>
+    <item
+        jar="D:\Documents\GitHub\SailPotato\app\build\intermediates\exploded-aar\com.android.support\percent\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="928b73afabcd116944e9487771d4121168eac1a4">
+        <dex dex="D:\Documents\GitHub\SailPotato\app\build\intermediates\pre-dexed\debug\classes-43212ccf857f5aa2196ab0e9112790ceefd8689e.jar" />
+    </item>
+    <item
+        jar="D:\Documents\GitHub\SailPotato\app\build\intermediates\exploded-aar\SailPotato\volley\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="e4465c15656eb2c3ca5bf944cf10a24e3ec87b97">
+        <dex dex="D:\Documents\GitHub\SailPotato\app\build\intermediates\pre-dexed\debug\classes-3097fbf6134c9229af65044472c8b7323ceec0cd.jar" />
+    </item>
+    <item
+        jar="D:\Documents\GitHub\SailPotato\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\Documents\GitHub\SailPotato\app\build\intermediates\pre-dexed\debug\classes-5a3cfe089af7f0be6534784a4f174178b9e5a91e.jar" />
+    </item>
+    <item
+        jar="G:\android_sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\Documents\GitHub\SailPotato\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-cc86ec6d20c773f9b24db2838271837508341a1d.jar" />
+    </item>
+    <item
+        jar="D:\Documents\GitHub\SailPotato\app\build\intermediates\exploded-aar\com.android.support\design\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="D:\Documents\GitHub\SailPotato\app\build\intermediates\pre-dexed\debug\classes-b45e57326eef38c512ca08773e6aaced14d85aeb.jar" />
+    </item>
+    <item
+        jar="D:\Documents\GitHub\SailPotato\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="D:\Documents\GitHub\SailPotato\app\build\intermediates\pre-dexed\debug\classes-2420b5fd264cd335c22cd57391c0da5908fe9925.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.michaelpardo\activeandroid\3.1.0-SNAPSHOT\4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08\activeandroid-3.1.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="4ab7b0182975bc57c49efc5e0b3baa4a10e4ec08">
+        <dex dex="D:\Documents\GitHub\SailPotato\app\build\intermediates\pre-dexed\debug\activeandroid-3.1.0-SNAPSHOT-37c7f31c332bb8b33d38c1341e57fae775181fcd.jar" />
+    </item>
+
+</items>
